@@ -1,0 +1,23 @@
+install-mcp.ps1
+  0dbde09ae0ae2e85 11-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "db25a30d274e27b7773477526ac0e4308c97681f",
+  "prompts": {
+    "0dbde09ae0ae2e85": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "13f7dee5-c95e-4912-889c-6c52085bd8f8",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Tito",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 14,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
